@@ -23,6 +23,7 @@ public class HomeWork1{
         
         sum =firstNumber+secondNumber;
         System.out.println("Ok! "+name+" "+lastName+" .The sum of the numbers are: "+sum);
+        //
         
     }
 }
