@@ -20,11 +20,11 @@ public class Wrapper_Classes{
 
 
         System.out.println(" Lets check if the Age is the same? ");
-        System.out.println(p1.getAge()==p2.getAge());
+        System.out.println(p1.getAge()>=p2.getAge());
         System.out.println("\n");
         
         System.out.println(" Lets check if the Height is the same? ");
-        System.out.println(p1.getHeight()<p2.getHeight());
+        System.out.println(p1.getHeight()!=p2.getHeight());
         System.out.println("\n");
 
         System.out.println(" Lets check if the first name is the same? ");
